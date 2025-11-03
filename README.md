@@ -52,6 +52,7 @@ Status: Available
 3
 Enter book title to borrow: The Hobbit
 Book 'The Hobbit' has been borrowed. Enjoy Reading
+
 ---
 
 ## 🛠 How It Works
